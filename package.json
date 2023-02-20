@@ -2,7 +2,7 @@
   "name": "budgettracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maha-c.github.io/react-budgetmanager-app",
+  "homepage": "https://maha-c.github.io/budgettracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
